@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="tHf3urU-ROa95HU1YuK1">
+    <mxGraphModel dx="970" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-3" edge="1" parent="1" source="aIY_zB5OsrImEj6e3pDw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aIY_zB5OsrImEj6e3pDw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Cricket API" vertex="1">
+          <mxGeometry height="90" width="260" x="250" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-5" edge="1" parent="1" source="aIY_zB5OsrImEj6e3pDw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aIY_zB5OsrImEj6e3pDw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Raw JSON Data" vertex="1">
+          <mxGeometry height="90" width="260" x="250" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-7" edge="1" parent="1" source="aIY_zB5OsrImEj6e3pDw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aIY_zB5OsrImEj6e3pDw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Bronze Layer" vertex="1">
+          <mxGeometry height="90" width="260" x="250" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-9" edge="1" parent="1" source="aIY_zB5OsrImEj6e3pDw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aIY_zB5OsrImEj6e3pDw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Silver Clean Match Table" vertex="1">
+          <mxGeometry height="90" width="260" x="250" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-11" edge="1" parent="1" source="aIY_zB5OsrImEj6e3pDw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aIY_zB5OsrImEj6e3pDw-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Gold Analytics Table" vertex="1">
+          <mxGeometry height="90" width="260" x="250" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="aIY_zB5OsrImEj6e3pDw-10" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" value="final Insights" vertex="1">
+          <mxGeometry height="90" width="200" x="290" y="720" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
